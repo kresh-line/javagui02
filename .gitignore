@@ -24,3 +24,4 @@ hs_err_pid*
 replay_pid*
 /JavaAppGUI02/nbproject/private/
 /JavaAppGUI02/build/
+*.DS_Store
